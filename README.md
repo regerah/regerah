@@ -155,17 +155,6 @@ class AshutoshTripathi:
         ]
 ```
 
----
-
-## 📈 **GitHub Stats**
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theashutoshtripathi&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theashutoshtripathi&layout=compact&theme=radical&hide_border=true)
-
-</div>
 
 ---
 
