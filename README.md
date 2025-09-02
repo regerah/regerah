@@ -11,10 +11,8 @@
 ---
 
 ## 🎯 **Current Mission**
-> *Building the future of AI-driven cybersecurity while pushing the boundaries of spoken language intelligence*
+> *World Domination*
 
-**🔬 Research Intern @ Samsung PRISM** | Advancing Anti-Spoofing in Spoken Language Identification  
-**🎓 B.Tech CSE @ VIT Vellore** | Specializing in AI/ML & Network Security
 
 ---
 
