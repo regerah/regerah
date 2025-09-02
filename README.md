@@ -10,9 +10,10 @@
 
 ---
 
-## 🎯 **Current Mission**
-> *World Domination*
+# 🌌 When Your Last Breath Arrives
 
+> *“When your last breath arrives, Grammar can do nothing.”*  
+> — Adi Shankara  
 
 ---
 
