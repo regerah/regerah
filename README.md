@@ -181,5 +181,5 @@ Whether you're interested in:
 ---
 
 <div align="center">
-<i>"In a world of artificial intelligence, be the human who makes it better."</i>
+<i>"My politics is wahtever leads to ∞."</i>
 </div>
