@@ -5,7 +5,6 @@
 [![Website](https://img.shields.io/badge/Website-theashutoshtripathi.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://theashutoshtripathi.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashutosh-tripathi)
 [![Email](https://img.shields.io/badge/Email-ashutoshtripathi03022004@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashutoshtripathi03022004@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-+91--9827098056-green?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919827098056)
 
 </div>
 
